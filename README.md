@@ -41,6 +41,7 @@
 ##  常用链接
 *  [常见问题](https://github.com/mingtong/Unity2Windows/wiki/常见问题-FAQ)
 *  [MSDN视频(英文)](http://www.microsoftvirtualacademy.com/training-courses/how-to-migrate-unity3d-game-to-wp8-1)
+*  [Visual Studio 2015 Tools for Unity](https://visualstudiogallery.msdn.microsoft.com/8d26236e-4a64-4d64-8486-7df95156aba9)
 
 ## 游戏展示，期待作品 Games Show, Stay tuned
 *  [已完成] [滑雪大冒险](https://www.windowsphone.com/zh-cn/store/app/滑雪大冒险/5b6101fb-0c66-42eb-809a-198667ae9450)
