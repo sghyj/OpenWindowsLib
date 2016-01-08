@@ -23,6 +23,7 @@
 *  Ming Tong ming.tong@outlook.com
 *  偏南风 southeryf@live.com
 *  雨月琉琉 mojitu@outlook.com
+*  阏樂  devhyj@outlook.com
 *  待补充 to-do
 
 ## 模块，类库及函数列表 Modules & Classes & Functions
